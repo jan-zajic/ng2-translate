@@ -1,6 +1,8 @@
 # ng2-translate [![Build Status](https://travis-ci.org/ocombe/ng2-translate.svg?branch=master)](https://travis-ci.org/ocombe/ng2-translate) [![npm version](https://img.shields.io/npm/v/ng2-translate.svg)](https://www.npmjs.com/package/ng2-translate)
 An implementation of angular translate for Angular 2.
 
+Test Build.
+
 Simple example using ng2-translate: https://github.com/ocombe/ng2-play/tree/ng2-translate
 
 Get the complete changelog here: https://github.com/ocombe/ng2-translate/releases
